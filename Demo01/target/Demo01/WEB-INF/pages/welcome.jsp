@@ -20,6 +20,6 @@
 <body>
 <p>Welcome ,</p>
 <p> ${user.getUsername()} 用户</p>
-<p> 你的密码是:${user.getPassword()} 用户</p>
+<p> 你的密码是:${user.getPassword()}</p>
 </body>
 </html>
